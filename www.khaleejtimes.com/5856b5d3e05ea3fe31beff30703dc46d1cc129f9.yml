@@ -1,0 +1,93 @@
+---
+request:
+  method: get
+  uri: http://www.khaleejtimes.com/article/20111017/ARTICLE/310179889/1016
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - '*/*'
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Server:
+    - Microsoft-IIS/8.5
+    Cache-Control:
+    - max-age=601
+    Pragma:
+    - no-cache
+    Content-Type:
+    - text/html; charset=windows-1252
+    Expires:
+    - Fri, 18 Nov 2016 13:05:45 GMT
+    Last-Modified:
+    - Fri, 18 Nov 2016 12:05:46 GMT
+    X-Forwarded-For:
+    - 5.148.47.8, 127.0.0.1
+    X-Passed-To:
+    - NCS-ME-WEB05, URL Rewrite on site KT (2016-11-18 13:05:45:450)
+    X-Handled-By:
+    - NCS-ME-WEB05, Rewrite on site KT
+    X-Actual-Url:
+    - NCS-ME-WEB05, (/apps/pbcs.dll/article?AID=/20111017/ARTICLE/310179889/1016)
+    X-Original-Request:
+    - /article/20111017/ARTICLE/310179889/1016
+    X-Passed-To-Dll:
+    - NCS-ME-WEB05, (2016-11-18 13:05:45:465)
+    X-Passed-To-Beforedispatch:
+    - NCS-ME-WEB05, on site KT (2016-11-18 13:05:45:465)
+    X-Returned-From-Beforedispatch:
+    - NCS-ME-WEB05, on site KT (2016-11-18 13:05:45:559)
+    X-Passed-To-Postprocessresponse:
+    - NCS-ME-WEB05, on site KT (2016-11-18 13:05:45:668)
+    X-Returned-From-Postprocessresponse:
+    - NCS-ME-WEB05, on site KT (2016-11-18 13:05:45:668)
+    X-Returned-From-Dll:
+    - NCS-ME-WEB05 (2016-11-18 13:05:45:668)
+    X-Returned-From:
+    - NCS-ME-WEB05(2016-11-18 13:05:45:668)
+    X-Powered-By:
+    - ASP.NET
+    Servedby:
+    - NCS-ME-WEB05
+    Sitename:
+    - khaleejtimes.com
+    X-Ua-Device:
+    - pc
+    X-Varnish-Beresp-Ttl:
+    - '601.000'
+    X-Varnish-Beresp-Grace:
+    - '3600.000'
+    X-Varnish-Beresp-Status:
+    - '200'
+    Content-Length:
+    - '23872'
+    Accept-Ranges:
+    - bytes
+    Date:
+    - Fri, 18 Nov 2016 12:05:45 GMT
+    X-Varnish:
+    - '1660048885'
+    Age:
+    - '0'
+    Connection:
+    - keep-alive
+    X-Served-By:
+    - ncs-me-www01.osl.basefarm.net
+    X-Stale:
+    - 'false'
+    Vary:
+    - X-UA,Accept-Encoding, User-Agent
+    X-Cache:
+    - MISS
+  body:
+    encoding: UTF-8
+  http_version: 
+recorded_at: Fri, 18 Nov 2016 12:05:45 GMT
