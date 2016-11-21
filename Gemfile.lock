@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/openaustralia/scraperwiki-ruby
+  remote: https://github.com/openaustralia/scraperwiki-ruby.git
   revision: fc50176812505e463077d5c673d504a6a234aa78
   branch: morph_defaults
   specs:
