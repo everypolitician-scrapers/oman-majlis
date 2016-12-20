@@ -52,12 +52,4 @@ def scrape_list(url)
   end
 end
 
-term = { 
-  id: 7,
-  name: '7th Period',
-  start_date: 2011,
-}
-ScraperWiki.save_sqlite([:id], term, 'terms')
-
-
 scrape_list('http://www.khaleejtimes.com/article/20111017/ARTICLE/310179889/1016')
